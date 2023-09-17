@@ -1,7 +1,7 @@
 # SR_Project
 
 ## Description
-This project is for Speech Recognition course. I have explored the Wav2Seq model by facebook, Kaldi, Espnet projects and trained some models and tested it.
+This project is for Speech Recognition course. I have explored the Wav2Seq model by facebook, Kaldi, Espnet projects and trained some models and tested it. I have also explored DeepSpeech from Mozilla, Flashlight, NeMo too; however, they are not in this repo, because there were many issues about instalation and building the project. 
 
 ## Notebook-01
 The first notebook(numbered: 01) is for data exploration of Common Voice for Turkish langauge.
